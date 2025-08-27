@@ -1,0 +1,9 @@
+title: Bioinfo Micro Tutorials
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+markdown: kramdown
